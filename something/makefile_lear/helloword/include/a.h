@@ -1,0 +1,2 @@
+
+int function(char * name);
